@@ -1,5 +1,5 @@
 # TFM-ASR
-Spanish ASR created from scratch, notebook with results can be seen inside the folder **Results**.
+Spanish ASR created from scratch with deep learning, notebooks with results can be seen inside the folder **Results**.
 
 This was developed using kaggle and the data was used from:
 
