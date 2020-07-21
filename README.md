@@ -1,4 +1,4 @@
-# TFM-ASR
+# Spanish ASR using Deep Learning
 Spanish ASR created from scratch with deep learning, notebooks with results can be seen inside the folder **Results**.
 
 The code has been modularized so the module files can be found under the folder utils:
