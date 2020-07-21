@@ -8,7 +8,7 @@ The code has been modularized so the module files can be found under the folder 
 * speechdataset.py: This module had to be used to pre-process the data before injecting them to the model.
 * textprocessor.py: This module is used for pre-processing the utterances from the dataset like converting them to lower case, deleting the acccents, etc.
 
-This was developed using kaggle and the data was used from:
+This was developed using kaggle and the following data was used:
 
 * https://www.kaggle.com/carlfm01/120h-spanish-speech
 
